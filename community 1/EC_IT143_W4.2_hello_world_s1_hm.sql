@@ -1,1 +1,0 @@
--- What is the average Cost of airplanes in the dataset
